@@ -7,7 +7,6 @@ metadata:
   tags:
     - recommended
     - scala
-    - play!
     - monitoring
 spec:
   owner: develop@informaticsiq.com
