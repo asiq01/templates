@@ -6,8 +6,8 @@ metadata:
   description: Create a simple monitoring microservice
   tags:
     - recommended
-    - Scala
-    - Play!
+    - scala
+    - play!
     - monitoring
 spec:
   owner: develop@informaticsiq.com
